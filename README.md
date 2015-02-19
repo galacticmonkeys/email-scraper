@@ -1,6 +1,5 @@
-search using the key term
-
-go on the first search result
+search using the key term <br />   
+go on the first search result <br />   
 www.asdfasd.org/about
 look for name and email on that page
 write to a file
