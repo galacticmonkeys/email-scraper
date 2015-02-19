@@ -1,7 +1,7 @@
-search using the key term </br>
-go on the first search result</br>
-www.asdfasd.org/about</br>
-look for name and email on that page</br>
-write to a file</br></br>
+search using the key term 
+go on the first search result
+www.asdfasd.org/about
+look for name and email on that page
+write to a file
 
 created using Jaunt 0.9.9.6
